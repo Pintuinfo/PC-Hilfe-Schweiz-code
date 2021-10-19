@@ -1,0 +1,81 @@
+@media (max-width:1366px) {
+
+    ul.navbar-nav.align-items-center li.nav-item a.nav-link {
+        font-size: 32px;
+        font-weight: 300;
+        color: #000 !important;
+    }
+
+    
+    .web-design-heading h3.bringen-tex:before {
+        content: "";
+        position: absolute;
+        width: 35%;
+        height: 2px;
+        background: red;
+        margin: 52px 89px;
+    }
+    .flip-card img {
+        width: 270px;
+        height: auto;
+    }
+
+    .flip-card {
+        background-color: transparent;
+        width: 290px;
+        height: 200px;
+        perspective: 1000px;
+    }
+
+    .web-design-heading.sub-head.text-left p {
+        font-size: 14px;
+        text-align: left;
+    }
+
+    .list-sec ul li {
+        font-size: 14px;
+    }
+
+    .web-design-heading p {
+        padding: 6px 0px;
+    }
+    .web-design-heading h3 {
+        font-size: 25px;
+    }
+    .web-design-heading p {
+        font-size: 15px;
+    }
+
+    .cus-card-box .card i {
+        color: #f92419;
+        border: 1px solid red;
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        font-size: 14px;
+        margin: 0px auto;
+    }
+
+    .ser-head h3 {
+        color: white;
+        font-size: 18px;
+    }
+
+    .cus-card-box .card .card-body {
+        padding: 10px 10px;
+    }
+
+    .web-design-heading {
+        text-align: center;
+        padding: 13px 0px;
+    }
+    .cus-card-box .card-body p {
+        font-size: 13px; 
+        font-weight: 300 !important;
+    }
+    nav#dot-nav {
+        position: fixed;
+        right: 25.1%;
+        z-index: 9;
+    }
+    }
